@@ -1,4 +1,4 @@
-# imiplementing-stereo-inertial-slam
+# implementing-stereo-inertial-slam
 This repository consists of step by step procedures to implement stereo-inertial slam from a ZED mini camera
 1) First step is to caliberate IMU
 2) Second step is to caliberate Multiple cameras
